@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionButton should render correctly 1`] = `
+<div>
+  <div
+    class="py-1 px-2 rounded-lg null flex items-center gap-2 text-white transition-all ease-in hover:translate-y-1"
+    role="button"
+  >
+    <p />
+  </div>
+</div>
+`;

@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput should render a input have icon 1`] = `
+<div>
+  <div
+    class="relative w-full undefined rounded-lg"
+  >
+    <p
+      class="absolute -top-3 left-4 bg-white px-2 text-base text-gray-400 font-extralight undefined"
+    >
+      test
+    </p>
+    <div>
+      <input
+        class="border p-3 rounded-lg w-full focus:outline-red-600 undefined"
+        value=""
+      />
+      <div
+        class="absolute top-3 right-3"
+      >
+        <svg
+          aria-hidden="true"
+          class="h-6 text-red-600"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`TextInput should render correctly 1`] = `
+<div>
+  <div
+    class="relative w-full undefined rounded-lg"
+  >
+    <p
+      class="absolute -top-3 left-4 bg-white px-2 text-base text-gray-400 font-extralight undefined"
+    >
+      test
+    </p>
+    <div>
+      <input
+        class="border p-3 rounded-lg w-full focus:outline-red-600 undefined"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;

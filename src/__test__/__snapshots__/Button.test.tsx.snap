@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should render correctly 1`] = `
+<div>
+  <button
+    class="undefined text-white bg-red-600  w-full rounded-lg h-12 ease-in transition-all hover:-translate-y-1 flex items-center justify-center"
+    type="button"
+  >
+    <p />
+     
+  </button>
+</div>
+`;
